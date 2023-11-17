@@ -8,15 +8,19 @@ Text Toxicity Classification with Bi-LSTM is a project aimed at building a robus
 
 Toxicity in online communication has become a significant concern, and automated classification systems play a crucial role in identifying and moderating toxic content. This project leverages the power of Bi-LSTM, a type of recurrent neural network (RNN), to understand the sequential nature of language and make accurate toxicity predictions.
 
-## Project Structure
-
 - **/data:** This directory contains the datasets used for training and testing the model.
   
-- **/notebooks:** Jupyter notebooks detailing the exploration, preprocessing, training, and evaluation of the Bi-LSTM model.
+- **/notebooks:** Jupyter notebooks detailing the exploration, preprocessing, training, and evaluation of the Bi-LSTM model. Access the notebooks using the following links:
+
+    - [Exploration Notebook](toxic-comment-detector.ipynb)
+    - [Preprocessing Notebook](toxic-comment-detector.ipynb)
+    - [Training Notebook](train.csv)
+    - [Evaluation Notebook](toxic-comment-detector.ipynb)
 
 - **/src:** Source code for the Bi-LSTM model and any helper functions.
 
 - **/models:** Saved models after training for deployment or further analysis.
+
 
 ## How to Use
 
