@@ -26,7 +26,7 @@ Toxicity in online communication has become a significant concern, and automated
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository_url]
+   git clone [https://github.com/Samsheer1027/Text-Toxicity-classification-Bi-LSTM]
 
 
 
